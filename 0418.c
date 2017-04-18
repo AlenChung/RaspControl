@@ -1,4 +1,4 @@
-／／newtesting0328-2
+//jeff Allen are smart 
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
